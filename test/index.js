@@ -24,7 +24,6 @@ describe('Blueshift', function(){
       .endpoint('https://api.getblueshift.com/api/v1/event/segmentio')
       .channels(['server', 'mobile'])
       .ensure('settings.apiKey')
-      .retries(3);
   });
 
   describe('.validate()', function(){
