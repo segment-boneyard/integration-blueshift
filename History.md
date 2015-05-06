@@ -1,4 +1,10 @@
 
+1.0.5 / 2015-05-06
+==================
+
+  * Adding timeout of 30 seconds and setting retries to 5
+  * Update circle template
+
 1.0.4 / 2014-12-08
 ==================
 
