@@ -1,6 +1,6 @@
 {
   "name": "@segment/integration-blueshift",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Blueshift server-side integration",
   "author": "Segment <friends@segment.com>",
   "repository": {
