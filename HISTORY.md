@@ -1,4 +1,9 @@
 
+1.1.0 / 2017-04-11
+==================
+
+  * Update build process, move to Node 6, update integration-worker version
+
 1.0.5 / 2015-05-06
 ==================
 
